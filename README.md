@@ -6,7 +6,7 @@ The project was developed entirely in HTML, CSS and Javascript for the front-end
 it was decided to use NodeJS to communicate with a SQL database necessary to keep all data relating to products, for example.
 
 
-##Getting Started & Setup
+## Getting Started & Setup
 Before starting, is required to install XAMP/MAMP and create a database called food_db, then follow this steps.
 
 ```
