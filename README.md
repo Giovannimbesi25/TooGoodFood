@@ -15,3 +15,6 @@ cd TooGoodFood/Progetto/
 node app.js
 
 ```
+Then you just need to access localhost:5000 by your browser. Port 5000 can be changed by editing the port.txt file.
+
+
