@@ -11,7 +11,7 @@ Before starting, is required to install XAMP/MAMP and create a database called f
 
 ```
 git clone https://github.com/Giovannimbesi25/Reddit-Post-Classificator.git
-cd TooGoodFood/Progetto/
+cd TooGoodFood/
 node app.js
 
 ```
